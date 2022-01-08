@@ -1,5 +1,5 @@
 <h1 align="center">About Account</h1>
-<h3 align="center">Owned by a Singapore-Indonesian high school student.</h3>
+<h3 align="center">Owned by a high school student.</h3>
 
 <h3 align="center">Social Medias:</h3>
 <p align="center">
