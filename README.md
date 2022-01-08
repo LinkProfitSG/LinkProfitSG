@@ -17,5 +17,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linkprofitsg&show_icons=true&locale=en&layout=compact" alt="linkprofitsg" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=linkprofitsg&show_icons=true&locale=en" alt="linkprofitsg" /></p>
